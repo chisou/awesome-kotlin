@@ -58,7 +58,8 @@ A curated list of awesome Kotlin frameworks, libraries, documents and other reso
 - [kotlin-core](https://github.com/lightningkite/kotlin-core) and its related reposiories - A full framework for making Android apps.  Based on Anko and Kotson.
 - [Kotlin NoSQL](https://github.com/cheptsov/kotlin-nosql) - Kotlin NoSQL is a reactive and type-safe DSL for working with NoSQL databases.
 - [shadow](https://github.com/loopeer/shadow) - Android custom shadow view, can replace your CardView.
-- [Exposed](https://github.com/JetBrains/Exposed) - Exposed is a prototype for a lightweight SQL library written over JDBC driver for Kotlin language. 
+- [Exposed](https://github.com/JetBrains/Exposed) - Exposed is a prototype for a lightweight SQL library written over JDBC driver for Kotlin language.
+- [Kotlin-Kli](https://github.com/chisou/kotlin-kli) - Kotlin-Kli is a lightweight command line parsing library for command line interfaces (CLI). 
 - [Klaxon](https://github.com/cbeust/klaxon) - Klaxon is a lightweight library to parse JSON in Kotlin.
 - [Kobalt](https://github.com/cbeust/kobalt) - Kobalt is a modern and versatile build system.
 - [Debug Bottle](https://github.com/kiruto/debug-bottle) - Debug Bottle is an Android runtime debug / develop tools written using kotlin language.
